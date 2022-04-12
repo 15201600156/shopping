@@ -1,0 +1,36 @@
+
+j
+java:S1602×"SRemove useless curly braces around statement and then remove useless return keyword(ÌùÉƒ
+c
+java:S1192Y"HDefine a constant instead of duplicating this literal "attr_id" 6 times.(Ğô†¶ıÿÿÿÿ
+f	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú•©g
+I
+java:S1611×"2Remove the parentheses around the "item" parameter(ÌùÉƒ
+}
+java:S1488ï"aImmediately return this expression instead of assigning it to the temporary variable "pageUtils".(³É¸—ûÿÿÿÿ
+j
+java:S1602ß"SRemove useless curly braces around statement and then remove useless return keyword(‰Ñ¦
+N
+java:S1611Á"2Remove the parentheses around the "item" parameter(½àÌŞúÿÿÿÿ
+a
+java:S1192T"KDefine a constant instead of duplicating this literal "catelog_id" 3 times.(ÛÃƒâ
+€
+java:S1488¸"dImmediately return this expression instead of assigning it to the temporary variable "attrEntities".(é×ûøùÿÿÿÿ
+j
+java:S1602±"SRemove useless curly braces around statement and then remove useless return keyword(¡ƒ™ü
+u
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿¦¦Áşÿÿÿÿ
+I
+java:S1611ß"2Remove the parentheses around the "item" parameter(‰Ñ¦
+F
+java:S1611ê"/Remove the parentheses around the "w" parameter(“ÿª
+C
+java:S1602ê",Remove useless curly braces around statement(“ÿª
+I
+java:S1611±"2Remove the parentheses around the "attr" parameter(¡ƒ™ü
+J
+java:S1612±",Replace this lambda with a method reference.(¡ƒ™ü8°¢øŞ0
+J
+java:S1612×",Replace this lambda with a method reference.(ÌùÉƒ8°¢øŞ0
+J
+java:S1612ß",Replace this lambda with a method reference.(‰Ñ¦8°¢øŞ0

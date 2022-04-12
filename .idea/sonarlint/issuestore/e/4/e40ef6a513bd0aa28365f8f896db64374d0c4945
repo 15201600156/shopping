@@ -1,0 +1,13 @@
+
+P	java:S125-"<This block of commented-out lines of code should be removed.(¦Ù²^
+V	java:S125K"<This block of commented-out lines of code should be removed.(¦Ğˆøúÿÿÿÿ
+Q	java:S125V"<This block of commented-out lines of code should be removed.(‘ ’é
+V	java:S125N"<This block of commented-out lines of code should be removed.(¶à±úÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(èˆ£Ôşÿÿÿÿ
+o
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÉ®›
+Q	java:S1253"<This block of commented-out lines of code should be removed.(¢¥ø¹
+T
+java:S4719@"9Replace charset name argument with StandardCharsets.UTF_8(‹á±Õÿÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(½ˆ¨Ğÿÿÿÿÿ

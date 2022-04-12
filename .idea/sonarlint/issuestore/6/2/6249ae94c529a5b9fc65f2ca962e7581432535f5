@@ -1,0 +1,7 @@
+
+v	java:S116"\Rename this field "alipay_public_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÝóßùÿÿÿÿ
+j	java:S116"URename this field "notify_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õñ·‚
+y	java:S116"_Rename this field "merchant_private_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ƒÊýøÿÿÿÿ
+o	java:S116"URename this field "return_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¤Ùüýÿÿÿÿ
+k	java:S116"QRename this field "app_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÊÁˆþÿÿÿÿ
+n	java:S116"TRename this field "sign_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æšÄ’ýÿÿÿÿ

@@ -1,0 +1,6 @@
+
+[	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(ş£¶µ
+Ÿ
+java:S1130"}Remove the declaration of thrown exception 'com.study.shopping.member.exception.PhoneException' which is a runtime exception.(ìí¨şşÿÿÿÿ8û¢øŞ0
+
+java:S1130""€Remove the declaration of thrown exception 'com.study.shopping.member.exception.UsernameException' which is a runtime exception.(„ÌŸì8û¢øŞ0

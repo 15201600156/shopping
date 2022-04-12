@@ -1,0 +1,34 @@
+
+a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+W
+java:S1874±";Remove this use of "setHostnameVerifier"; it is deprecated.(Å…Û„ıÿÿÿÿ
+`	java:S112v"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+P
+java:S1118'":Add a private constructor to hide the implicit public one.(„–Û
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¢“¼¥üÿÿÿÿ
+\
+java:S2147·"ECombine this catch with the one at line 309, which has the same body.(¤·¿Ã
+=
+java:S1168¤"&Return an empty array instead of null.(¥¹ï
+\
+java:S4830«"@Enable server certificate validation on this SSL/TLS connection.(¯éƒàûÿÿÿÿ
+W
+java:S4830§"@Enable server certificate validation on this SSL/TLS connection.(‰Ëœ¶
+J
+java:S2864["4Iterate over the "entrySet" instead of the "keySet".(µÓÎ™
+˜
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Ëœ¶
+\
+java:S1192^"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(ÃèÆ•
+a	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ“æÿùÿÿÿÿ
+a	java:S112ì"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯éƒàûÿÿÿÿ
+`	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ

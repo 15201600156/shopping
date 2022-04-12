@@ -1,0 +1,20 @@
+
+r	java:S116("QRename this field "app_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œöˆıÿÿÿÿ8ñŒ¥Æş/
+w	java:S116%"VRename this field "auth_app_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‰úùÿÿÿÿ8ñŒ¥Æş/
+w	java:S116"VRename this field "gmt_payment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‘´øÿÿÿÿ8ñŒ¥Æş/
+p	java:S116*"TRename this field "sign_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†­€—8ñŒ¥Æş/
+u	java:S116"TRename this field "notify_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŒì¯üÿÿÿÿ8ñŒ¥Æş/
+w	java:S116"VRename this field "notify_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ„¢òıÿÿÿÿ8ñŒ¥Æş/
+u	java:S116"YRename this field "invoice_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¼»ú8ñŒ¥Æş/
+z	java:S116"YRename this field "fund_bill_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à“–ùÿÿÿÿ8ñŒ¥Æş/
+o	java:S116$"SRename this field "trade_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùõ©Î8ñŒ¥Æş/
+q	java:S116 "VRename this field "notify_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çå`8ñŒ¥Æş/
+o	java:S116"SRename this field "buyer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³“´ñ8ñŒ¥Æş/
+u	java:S116&"YRename this field "receipt_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾âã­8ñŒ¥Æş/
+s	java:S116'"WRename this field "point_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úã³“8ñŒ¥Æş/
+x	java:S116!"WRename this field "out_trade_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢°ëøüÿÿÿÿ8ñŒ¥Æş/
+s	java:S116""WRename this field "total_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÁ¡»8ñŒ¥Æş/
+|	java:S116)"[Rename this field "buyer_pay_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò€‰­şÿÿÿÿ8ñŒ¥Æş/
+v	java:S116"URename this field "gmt_create" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øàËıÿÿÿÿ8ñŒ¥Æş/
+u	java:S116+"TRename this field "seller_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂŞÂ®ıÿÿÿÿ8ñŒ¥Æş/
+r	java:S116#"WRename this field "trade_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´­âN8ñŒ¥Æş/

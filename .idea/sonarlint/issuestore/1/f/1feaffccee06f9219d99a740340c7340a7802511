@@ -1,0 +1,10 @@
+
+Q	java:S125e"<This block of commented-out lines of code should be removed.(Ö¸£æ
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×óµùÿÿÿÿ
+k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÃóäşÿÿÿÿ
+H
+java:S1135H"2Complete the task associated to this TODO comment.(ª»²È
+J
+java:S2864]"4Iterate over the "entrySet" instead of the "keySet".(áÕ£
+P	java:S125)"<This block of commented-out lines of code should be removed.(õœ¡
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ô¿Òƒ

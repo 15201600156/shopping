@@ -1,0 +1,35 @@
+
+
+java:S1157’"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ĞéÍÁ8œ“ÄÀ0
+h
+java:S1192p"FDefine a constant instead of duplicating this literal "attrs" 3 times.(í˜ıÑşÿÿÿÿ8œ“ÄÀ0
+^	java:S125ç"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8œ“ÄÀ0
+t
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¬˜³‹ùÿÿÿÿ8œ“ÄÀ0
+u
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(®Üşÿÿÿÿ8œ“ÄÀ0
+X	java:S125ê"<This block of commented-out lines of code should be removed.(Ï½ÍX8œ“ÄÀ0
+ˆ
+java:S1488·"eImmediately return this expression instead of assigning it to the temporary variable "searchRequest".(Üâ±üıÿÿÿÿ8œ“ÄÀ0
+}
+java:S1488ï"_Immediately return this expression instead of assigning it to the temporary variable "replace".(ÔÁº8œ“ÄÀ0
+h
+java:S3252Ì"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(¹’÷µıÿÿÿÿ8œ“ÄÀ0
+U
+java:S1135í"2Complete the task associated to this TODO comment.(Í“ÿÿÿÿÿÿ8œ“ÄÀ0
+j
+java:S1192c"HDefine a constant instead of duplicating this literal "brandId" 3 times.(ÍÄûıúÿÿÿÿ8œ“ÄÀ0
+‚
+java:S1149Æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8œ“ÄÀ0
+U	java:S106µ"9Replace this use of System.out or System.err by a logger.(ş »q8œ“ÄÀ0
+N
+java:S1481Ù"+Remove this unused "buffer" local variable.(¨âàøÿÿÿÿ8œ“ÄÀ0
+k
+java:S1192Z"IDefine a constant instead of duplicating this literal "skuTitle" 3 times.(­¥…Œøÿÿÿÿ8œ“ÄÀ0
+^	java:S125Ú"<This block of commented-out lines of code should be removed.(Ç”½»üÿÿÿÿ8œ“ÄÀ0
+O
+java:S1612õ",Replace this lambda with a method reference.(ÜøáÎûÿÿÿÿ8œ“ÄÀ0
+‚
+java:S1149Ù"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8œ“ÄÀ0
+f
+java:S1192"IDefine a constant instead of duplicating this literal "skuPrice" 3 times.(ÜÓùø8œ“ÄÀ0

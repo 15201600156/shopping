@@ -1,0 +1,21 @@
+
+@
+java:S1128"Remove this duplicated import.(ÿõ—ôùÿÿÿÿ8¶ƒÁ0
+p
+java:S3252¼"TUse static access with "com.alibaba.fastjson.JSON" for "toJSONStringWithDateFormat".(øÃ¥Ğşÿÿÿÿ
+x
+java:S1488v"bImmediately return this expression instead of assigning it to the temporary variable "operations".(™‡“Ò
+B
+java:S1168á"+Return an empty collection instead of null.(¥¹ï
+x
+java:S1488c"bImmediately return this expression instead of assigning it to the temporary variable "cartItemVo".(Åá•ˆ
+B
+java:S1168¦"+Return an empty collection instead of null.(¥¹ï
+?
+java:S1125¹"(Remove the literal "true" boolean value.(à‹Ûª
+\
+java:S3252£"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(¯×­
+p
+java:S3252Ê"TUse static access with "com.alibaba.fastjson.JSON" for "toJSONStringWithDateFormat".(øÃ¥Ğşÿÿÿÿ
+O
+java:S1612é",Replace this lambda with a method reference.(Ï¾şÿÿÿÿ8ÁŞÁ0

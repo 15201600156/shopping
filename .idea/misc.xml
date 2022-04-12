@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/renren-fast/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-common/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-product/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-third-part/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-coupon/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-member/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-search/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-test-sso-client/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-test-sso-server/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-order/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-test-sso-client2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

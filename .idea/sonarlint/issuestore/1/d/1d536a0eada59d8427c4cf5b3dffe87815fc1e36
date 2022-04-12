@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Š™Ãÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À¨ßûøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨¬ÀÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Š™Ãÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Öù½Åþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¹çß
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æÂ’‹
+b
+java:S1192"GDefine a constant instead of duplicating this literal "123456" 9 times.(À¨ßûøÿÿÿÿ

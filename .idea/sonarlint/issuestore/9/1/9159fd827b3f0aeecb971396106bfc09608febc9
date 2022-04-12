@@ -1,0 +1,61 @@
+
+i
+java:S1192]"GDefine a constant instead of duplicating this literal "strong" 3 times.(¾ØñÑıÿÿÿÿ8ÚäÆş/
+W
+java:S2864Œ"4Iterate over the "entrySet" instead of the "keySet".(”ıİîùÿÿÿÿ8ÚäÆş/
+E
+java:S1125"(Remove the literal "true" boolean value.(òİ•8ÚäÆş/
+E
+java:S4274"(Replace this assert with a proper check.(À«œ¾8ÚäÆş/
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(çÖÒøÿÿÿÿ8ÚäÆş/
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÃÃæıÿÿÿÿ8ÚäÆş/
+E
+java:S4274„"(Replace this assert with a proper check.(‰¬f8ÚäÆş/
+{
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(˜İúÔÿÿÿÿÿ8ÚäÆş/
+w
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(“¿¬ö8ÚäÆş/
+^	java:S125Ö"<This block of commented-out lines of code should be removed.(ñç¤Üÿÿÿÿÿ8ÚäÆş/
+{
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Õøÿÿÿÿ8ÚäÆş/
+F
+java:S4274€"(Replace this assert with a proper check.(ÆªÀ8ÚäÆş/
+{
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ÃÃæıÿÿÿÿ8ÚäÆş/
+p
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(‚Şÿê8ÚäÆş/
+Y	java:S125À"<This block of commented-out lines of code should be removed.(Ò»´8ÚäÆş/
+F
+java:S1659Ñ"(Declare "paramValue" on a separate line.(ŸÉÛÚ8ÚäÆş/
+R
+java:S1066±"/Merge this if statement with the enclosing one.(„–…Œûÿÿÿÿ8ÚäÆş/
+F
+java:S4274"(Replace this assert with a proper check.(‚õÛ8ÚäÆş/
+{
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(âëÊ°ÿÿÿÿÿ8ÚäÆş/
+u
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ò¨Q8ÚäÆş/
+J
+java:S4274}"(Replace this assert with a proper check.( Í¨öøÿÿÿÿ8ÚäÆş/
+J
+java:S4274~"(Replace this assert with a proper check.(ñŸ¦‰şÿÿÿÿ8ÚäÆş/
+K
+java:S4274ƒ"(Replace this assert with a proper check.(õÓï¡øÿÿÿÿ8ÚäÆş/
+:
+java:S1643"Use a StringBuilder instead.(šû¯†8ÚäÆş/
+R
+java:S1066°"/Merge this if statement with the enclosing one.(‹îıØüÿÿÿÿ8ÚäÆş/
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜İúÔÿÿÿÿÿ8ÚäÆş/
+s	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õĞá›øÿÿÿÿ8ÚäÆş/
+w
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Ë½¤8ÚäÆş/
+F
+java:S1125"(Remove the literal "true" boolean value.(¢·£Ä8ÚäÆş/
+:
+java:S1643Ş"Use a StringBuilder instead.(ºú·8ÚäÆş/
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Õøÿÿÿÿ8ÚäÆş/
+F
+java:S4274‚"(Replace this assert with a proper check.(÷Ü•º8ÚäÆş/
+F
+java:S1125"(Remove the literal "true" boolean value.(¼¶ŞŞ8ÚäÆş/

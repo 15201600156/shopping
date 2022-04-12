@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shopping.iml" filepath="$PROJECT_DIR$/.idea/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-auth-server/shopping-auth-server.iml" filepath="$PROJECT_DIR$/shopping-auth-server/shopping-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/shopping-cart/shopping-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-common/shopping-common.iml" filepath="$PROJECT_DIR$/shopping-common/shopping-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-coupon/shopping-coupon.iml" filepath="$PROJECT_DIR$/shopping-coupon/shopping-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-gateway/shopping-gateway.iml" filepath="$PROJECT_DIR$/shopping-gateway/shopping-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-member/shopping-member.iml" filepath="$PROJECT_DIR$/shopping-member/shopping-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-order/shopping-order.iml" filepath="$PROJECT_DIR$/shopping-order/shopping-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-product/shopping-product.iml" filepath="$PROJECT_DIR$/shopping-product/shopping-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-search/shopping-search.iml" filepath="$PROJECT_DIR$/shopping-search/shopping-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-test-sso-client/shopping-test-sso-client.iml" filepath="$PROJECT_DIR$/shopping-test-sso-client/shopping-test-sso-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-test-sso-client2/shopping-test-sso-client2.iml" filepath="$PROJECT_DIR$/shopping-test-sso-client2/shopping-test-sso-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-test-sso-server/shopping-test-sso-server.iml" filepath="$PROJECT_DIR$/shopping-test-sso-server/shopping-test-sso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-third-part/shopping-third-part.iml" filepath="$PROJECT_DIR$/shopping-third-part/shopping-third-part.iml" />
+    </modules>
+  </component>
+</project>

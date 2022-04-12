@@ -1,0 +1,17 @@
+
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(µ æúÿÿÿÿ
+t
+java:S11925"YDefine a constant instead of duplicating this literal "æ¥å—åˆ°çš„æ¶ˆæ¯å†…å®¹" 4 times.(ñìÒ·ıÿÿÿÿ
+[
+java:S3252B"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(Æé±ş
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Åãì
+Q
+java:S14811"6Remove this unused "messageProperties" local variable.(ùÃ•òûÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ñìÒ·ıÿÿÿÿ
+I
+java:S1172-".Remove this unused method parameter "channel".(û¯îÆÿÿÿÿÿ
+[
+java:S32523"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(¡—’®
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(µ æúÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ñìÒ·ıÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Åãì

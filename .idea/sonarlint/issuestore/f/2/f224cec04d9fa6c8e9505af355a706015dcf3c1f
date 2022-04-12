@@ -1,0 +1,58 @@
+
+u
+java:S1488Ñ"^Immediately return this expression instead of assigning it to the temporary variable "result".(¡†¨Ì
+z
+java:S1488š"^Immediately return this expression instead of assigning it to the temporary variable "result".(¶¤òëşÿÿÿÿ
+y
+java:S1488»"cImmediately return this expression instead of assigning it to the temporary variable "catalog2VOS".(È¨×j
+{
+java:S1488P"`Immediately return this expression instead of assigning it to the temporary variable "children".(óÛã¹ùÿÿÿÿ
+u
+java:S1488±"^Immediately return this expression instead of assigning it to the temporary variable "result".(¸Ãù¶
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(üÑŸ›
+L
+java:S1133á"5Do not forget to remove this deprecated code someday.(„ˆÂâ
+y
+java:S1488³"cImmediately return this expression instead of assigning it to the temporary variable "catalog2VOS".(È¨×j
+]
+java:S2142Š"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+G
+java:S1481ó"+Remove this unused "result" local variable.(¾‹óùşÿÿÿÿ
+z
+java:S1488¤"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÕÅÁúùÿÿÿÿ
+H
+java:S1135‡"2Complete the task associated to this TODO comment.(»‡R
+]
+java:S3252Î"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(¿¼Å‘
+O
+java:S1612«",Replace this lambda with a method reference.(ˆƒúãıÿÿÿÿ8Î´¿€0
+?
+java:S1123á"(Add the missing @deprecated Javadoc tag.(„ˆÂâ
+F
+java:S5411ñ"*Use the primitive boolean expression here.(ÿ©‹øÿÿÿÿ
+y
+java:S1488?"cImmediately return this expression instead of assigning it to the temporary variable "level1Menus".(îÖµ¤
+~
+java:S4165j"cRemove this useless assignment; "paths" already holds the assigned value along all execution paths.(ò¬ê°úÿÿÿÿ
+y
+java:S1488¹"bImmediately return this expression instead of assigning it to the temporary variable "catalog3Vo".(ëµÈš
+y
+java:S1488Á"bImmediately return this expression instead of assigning it to the temporary variable "catalog3Vo".(ëµÈš
+~
+java:S1488½"bImmediately return this expression instead of assigning it to the temporary variable "catalog2VO".(…Á·úûÿÿÿÿ
+z
+java:S1488¬"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÕÅÁúùÿÿÿÿ
+M
+java:S1135]"2Complete the task associated to this TODO comment.(©±æåúÿÿÿÿ
+~
+java:S1488Å"bImmediately return this expression instead of assigning it to the temporary variable "catalog2VO".(…Á·úûÿÿÿÿ
+z
+java:S1488Ö"^Immediately return this expression instead of assigning it to the temporary variable "result".(´í‘¯úÿÿÿÿ
+I
+java:S1135ˆ"2Complete the task associated to this TODO comment.(‡š˜°
+N
+java:S1135ö"2Complete the task associated to this TODO comment.(ÅÜøóúÿÿÿÿ
+O
+java:S1612³",Replace this lambda with a method reference.(ˆƒúãıÿÿÿÿ8Ï´¿€0
+a
+java:S3252Ö"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(´í‘¯úÿÿÿÿ

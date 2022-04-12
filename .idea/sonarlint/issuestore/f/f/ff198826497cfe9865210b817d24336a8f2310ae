@@ -1,0 +1,20 @@
+
+u
+java:S1149L"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¸¥³ 
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Û¼âÉÿÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ËæØÜ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÜÏ»ğşÿÿÿÿ
+M	java:S106/"9Replace this use of System.out or System.err by a logger.(Íıÿ,
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(µ¤O
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ë™ÃÖ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Ãì¼Şüÿÿÿÿ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(”ûÿ,
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(àèÄÍ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÆÎ±Üûÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Ê‚²¸úÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÈÚÎÏùÿÿÿÿ
+T
+java:S4719P"9Replace charset name argument with StandardCharsets.UTF_8(¿Ñ˜óûÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(†€éˆ

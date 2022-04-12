@@ -1,0 +1,11 @@
+
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–çå€şÿÿÿÿ
+?	java:S108¬")Either remove or fill this block of code.(”ı¾
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚©å´üÿÿÿÿ8ì²öÈş/
+D
+java:S1481‰"(Remove this unused "uid" local variable.(€Éõúÿÿÿÿ
+š
+java:S1130Y"}Remove the declaration of thrown exception 'com.study.shopping.member.exception.PhoneException' which is a runtime exception.(åŒØì8‚£øŞ0
+
+java:S1130c"€Remove the declaration of thrown exception 'com.study.shopping.member.exception.UsernameException' which is a runtime exception.(ÓÅãå8‚£øŞ0

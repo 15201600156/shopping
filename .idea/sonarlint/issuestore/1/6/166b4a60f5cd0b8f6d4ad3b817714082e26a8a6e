@@ -1,0 +1,9 @@
+
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(‹àéÃùÿÿÿÿ8´ÛÀş/
+E	java:S108y")Either remove or fill this block of code.(”ı¾8´ÛÀş/
+E	java:S108\")Either remove or fill this block of code.(”ı¾8´ÛÀş/
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(ò¨ääÿÿÿÿÿ8´ÛÀş/
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(‹àéÃùÿÿÿÿ8´ÛÀş/
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(ò¨ääÿÿÿÿÿ8´ÛÀş/
+}
+java:S1488E"[Immediately return this expression instead of assigning it to the temporary variable "map".(Øïˆâıÿÿÿÿ8´ÛÀş/

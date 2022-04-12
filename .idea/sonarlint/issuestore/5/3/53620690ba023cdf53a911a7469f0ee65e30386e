@@ -1,0 +1,9 @@
+
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı¯âŒûÿÿÿÿ
+u
+java:S1488N"_Immediately return this expression instead of assigning it to the temporary variable "results".(û¢ù
+G
+java:S16020",Remove useless curly braces around statement(¿âØŞúÿÿÿÿ
+L
+java:S16110"1Remove the parentheses around the "obj" parameter(¿âØŞúÿÿÿÿ

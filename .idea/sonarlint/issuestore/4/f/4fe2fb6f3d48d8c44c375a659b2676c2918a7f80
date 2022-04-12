@@ -1,0 +1,9 @@
+
+W
+java:S2209%"5Change this instance-reference to a static reference.(ÚÊê¡úÿÿÿÿ8ªŞ£Àş/
+R
+java:S2209"5Change this instance-reference to a static reference.(–£–†8ªŞ£Àş/
+G
+java:S1602",Remove useless curly braces around statement(èû±ïşÿÿÿÿ
+M
+java:S1611"2Remove the parentheses around the "item" parameter(èû±ïşÿÿÿÿ

@@ -1,0 +1,7 @@
+
+@
+java:S5411""*Use the primitive boolean expression here.(€‘¨Ä
+Q	java:S125)"<This block of commented-out lines of code should be removed.(îŽÜÂ
+Q	java:S125+"<This block of commented-out lines of code should be removed.( ë€Ù
+™
+java:S1130"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(Õ½–~8£øÞ0

@@ -1,0 +1,55 @@
+
+R
+java:S3740Ò"/Provide the parametrized type for this generic.(‚Îİ¡øÿÿÿÿ8üÌ¡Æş/
+v
+java:S1192"YUse already-defined constant 'DATAFORMAT_DATE_STR' instead of duplicating its value here.(¬ü¯-8üÌ¡Æş/
+
+java:S1488é"aImmediately return this expression instead of assigning it to the temporary variable "preMonday".(¡¹çş8üÌ¡Æş/
+u
+java:S1192 "XUse already-defined constant 'DATATIMEF_TIME_STR' instead of duplicating its value here.(ğ¹É›8üÌ¡Æş/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8üÌ¡Æş/
+|
+java:S1488‘"_Immediately return this expression instead of assigning it to the temporary variable "current".(šÂå#8üÌ¡Æş/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(È¦ìÍ8üÌ¡Æş/
+M
+java:S3740«"/Provide the parametrized type for this generic.(ä„òâ8üÌ¡Æş/
+M
+java:S3740»"/Provide the parametrized type for this generic.(† òİ8üÌ¡Æş/
+D
+java:S1905E"'Remove this unnecessary cast to "long".(¨¼ÿí8üÌ¡Æş/
+M
+java:S3740»"/Provide the parametrized type for this generic.(† òİ8üÌ¡Æş/
+
+java:S1488ü"aImmediately return this expression instead of assigning it to the temporary variable "preMonday".(¡¹çş8üÌ¡Æş/
+I
+java:S1905C"'Remove this unnecessary cast to "long".(ß—ÿµûÿÿÿÿ8üÌ¡Æş/
+V	java:S106û"9Replace this use of System.out or System.err by a logger.(ı‚8üÌ¡Æş/
+V	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ôöƒ8üÌ¡Æş/
+M
+java:S3740¹"/Provide the parametrized type for this generic.(›Š8üÌ¡Æş/
+M
+java:S3740¬"/Provide the parametrized type for this generic.(† òİ8üÌ¡Æş/
+M
+java:S3740¬"/Provide the parametrized type for this generic.(† òİ8üÌ¡Æş/
+
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "preMonday".(¡¹çş8üÌ¡Æş/
+ƒ
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "startDay".(Š‘Š§ÿÿÿÿÿ8üÌ¡Æş/
+€
+java:S1488 "cImmediately return this expression instead of assigning it to the temporary variable "startFormat".(ğ¹É›8üÌ¡Æş/
+“
+java:S1130A"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ôÕµ’şÿÿÿÿ8üÌ¡Æş/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(§á»×8üÌ¡Æş/
+Y
+java:S2589;"7Remove this expression which always evaluates to "true"(Ú¥³ºıÿÿÿÿ8üÌ¡Æş/
+d
+java:S1126Š"AReplace this if-then-else statement by a single return statement.(œ©Üİşÿÿÿÿ8üÌ¡Æş/
+U
+java:S1135Î"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8üÌ¡Æş/
+~
+java:S1488-"aImmediately return this expression instead of assigning it to the temporary variable "endFormat".(û¶¦ê8üÌ¡Æş/
+u
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‚Îİ¡øÿÿÿÿ8üÌ¡Æş/
+Y	java:S125ü"<This block of commented-out lines of code should be removed.(Èï’Ï8üÌ¡Æş/
+Y
+java:S2589K"7Remove this expression which always evaluates to "true"(Ú¥³ºıÿÿÿÿ8üÌ¡Æş/
